@@ -102,6 +102,15 @@
 
 
 
+
+
+<h1 align="center">Hi 👋, I'm Devansh Patel</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Learner;Cyber+Security+Enthusiast;Gamer+%2B+Programmer;Code+Learn+Build+Repeat" />
+</p>
+
+
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Devanshpatel350&theme=radical&no-frame=true&no-bg=true&margin-w=4)
