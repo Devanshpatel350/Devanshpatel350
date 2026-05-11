@@ -111,6 +111,23 @@
 </p>
 
 
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_LINK)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Devanshpatel350&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Devanshpatel350&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshpatel350&layout=compact&theme=tokyonight)
+
+
+
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Devanshpatel350&theme=radical&no-frame=true&no-bg=true&margin-w=4)
