@@ -89,3 +89,25 @@
 ---
 
 <h3 align="center">🔥 Welcome To My Cyber World 🔥</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:BB00FF&height=250&section=header&text=DEVANSH%20PATEL&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🎮+Gamer+%7C+💻+Developer;⚡+Cyber+Mode+Activated;🔥+DSA+Grind+Everyday;🚀+Full+Stack+Learner" />
+</p>
+
+
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Devanshpatel350&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+
+
+# 📈 Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Devanshpatel350&theme=react-dark)
